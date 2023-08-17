@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 AspectRatio promoCard(String image) {
   return AspectRatio(
-    aspectRatio: 2.3 / 3,
+    aspectRatio: 1.3 / 1.5,
     child: Container(
       margin: EdgeInsets.only(right: 10),
       decoration: BoxDecoration(
